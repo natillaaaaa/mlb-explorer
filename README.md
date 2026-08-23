@@ -2,7 +2,7 @@
  Estudiante: Nathali Abigail Chacon Murillo
 
  
-**URL del proyecto:** _[(pega aquí la URL que te da Netlify después del deploy, ver abajo)](https://wondrous-belekoy-8ff025.netlify.app/)_
+**URL del proyecto:** _[(https://wondrous-belekoy-8ff025.netlify.app/)]_
 
 ## Conjunto de datos
 
